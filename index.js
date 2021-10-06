@@ -69,7 +69,7 @@ map.addControl(
 );
 
 
-// Agregar rutas
+// Agregar rutas 
 map.addControl(
 	new MapboxDirections({
 		accessToken: mapboxgl.accessToken,
